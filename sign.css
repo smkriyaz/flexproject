@@ -1,0 +1,25 @@
+body{
+    border-style: solid;
+    width:400px;
+    margin-top: 20px;
+    margin-left: 500px;
+    background-color: aqua;
+    box-sizing: border-box;
+}
+  
+form{
+    /* padding-left: 50px; */
+    font-size:17px;
+    padding-left: 40px;
+    padding-bottom: 10px;
+
+   
+    
+    
+}
+h1{
+    text-align: center;
+}
+.smk{
+background: linear-gradient(#cc2b5e ,#753a88);
+}
